@@ -1,0 +1,40 @@
+cd - change direoctory
+clear - to clear monitor text
+in git bash there are few error then GUI git
+
+
+1. git config --global user.name "username"
+git config --global user.name "tsvetanvashkov"
+git config --global user.email userEmail
+
+2. Create repository 
+git init
+
+3. To clone files from some repository(server with files) 
+git clone webUrl/localpath
+
+4. Add branch(version of files)
+git checkout -b branchname
+
+5. Git status - to see which file are commited and which not
+git status
+
+6. Add files to git repository(server url) (add * add all uncommited files)
+git add *
+git add filename
+
+7. Commit files (-m commit ad file/s) (-a commit all files even files are not added to repository)
+git commit -m "Message for commit"
+git commit -a
+
+
+8. Push files send changes to branch
+git push origin branchname
+
+9. Add git repository to Github Server
+git remote add origin https://github.com/tsvetanvashkov/Git.git
+
+
+
+
+
