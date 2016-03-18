@@ -34,6 +34,12 @@ git push origin branchname
 9. Add git repository to Github Server
 git remote add origin https://github.com/tsvetanvashkov/Git.git
 
+10. Check Git branches 
+git branch
+
+11. TO see repositories diferent versions
+git remote -v
+
 
 
 
