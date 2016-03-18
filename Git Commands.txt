@@ -42,5 +42,9 @@ git remote -v
 
 
 
+12. CHange branch 
+git checkout branchname
+
+
 
 
