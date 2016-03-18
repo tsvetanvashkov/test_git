@@ -45,6 +45,10 @@ git remote -v
 12. CHange branch 
 git checkout branchname
 
+13. Git pull to download files from repository(server)
+git pull
+
+
 
 
 
